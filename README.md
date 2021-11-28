@@ -1,9 +1,13 @@
 ## Hi there 👋, welcome on this GitHub profile
 ### whoami
 Linux System Engineer and enthusiast; command line addict. Family man, trail runner, bicycle commuter.
-Since I usually take notes in Markdown I do publish some of them here; party for myself to have them at hand and have backup.
+
+### about:lehoczkics
+Ranged Terran spellcaster and support unit.
 
 ### What could be interesting here
+Since I usually take notes in Markdown I do publish some of them here; party for myself to have them at hand and have backup.
+A few highlights:
  - Check out the config files of my working environment in my [dotfiles repo](https://github.com/lehoczkics/dotfiles)
  - Things I use infrequently and find difficult to remember end up in [Knowledge Base repo](https://github.com/lehoczkics/kb)
  - Same for PenTesting and CTF-related notes in [pt](https://github.com/lehoczkics/pt).
