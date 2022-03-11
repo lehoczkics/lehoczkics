@@ -1,5 +1,5 @@
 title: lehoczkics
 description: lehoczkics GitHub profile
 show_downloads: false
-theme: jekyll-theme-hacker
+theme: "dracula/gh-pages"
 
