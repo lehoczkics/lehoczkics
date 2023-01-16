@@ -8,8 +8,9 @@ Ranged Terran spellcaster and support unit.
 ### What could be interesting here
 Since I usually take notes in Markdown I do publish some of them here; party for myself to have them at hand and have backup.
 A few highlights:
- - Check out the config files of my working environment in my [dotfiles repo](https://github.com/lehoczkics/dotfiles)
+ - Check out the config files of my working environment in [dotfiles repo](https://github.com/lehoczkics/dotfiles)
  - Some of my recipes / practices are collected in this [cookbook](https://github.com/lehoczkics/cookbook)
+ - Find handy scripts and functions in [ad-hoc scripts repo](https://github.com/lehoczkics/ad-hoc-scripts)
  - Things I use infrequently and find difficult to remember end up in [Knowledge Base repo](https://github.com/lehoczkics/kb)
  - Same for PenTesting and CTF-related notes in [pt](https://github.com/lehoczkics/pt).
 
