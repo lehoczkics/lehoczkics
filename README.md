@@ -19,8 +19,4 @@ A few highlights:
 ### Social
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/lehoczkics)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lehoczkics/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/strava.svg' alt='strava' height='40'>](https://www.strava.com/athletes/16224618) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lehoczkics)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lehoczkics&show_icons=true)  
-
 ![Profile views](https://gpvc.arturio.dev/lehoczkics)  
