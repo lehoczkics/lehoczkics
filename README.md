@@ -1,3 +1,10 @@
+# Win12345
+Hellobello, ha kincskeresni jöttél, jó nyomon vagy, erre tessék! [win12345 repo](https://github.com/lehoczkics/win12345)<br>
+<br>
+Nem kell git-ezni, onnan már minden kincs elérhető egérrel meg jó szemmel.
+
+---
+
 ## Hi there 👋, welcome on this GitHub profile
 ### whoami
 Linux System Engineer and enthusiast; command line addict. Family man, trail runner, bicycle commuter.
